@@ -1,99 +1,116 @@
-<h1 align="center">Hi, I'm Nikhil Mendiratta 👋</h1>
+<h1 align="center">Hi 👋, I'm Nikhil Mendiratta</h1>
 
 <p align="center">
-  <b>Software Development Engineer · Full Stack Developer · Open to Opportunities</b>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Software+Development+Engineer;Full+Stack+Developer;MERN+Stack+Developer;AI+%2B+Automation+Builder;Open+to+Work+🚀" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/nikhil-mendiratta-20a2b7297"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-  <a href="https://github.com/niks2411"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
-  <a href="mailto:nikhilmendiratta2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <b>Software Development Engineer · Full Stack Developer · AI & Automation Enthusiast</b>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/nikhil-mendiratta-20a2b7297">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/niks2411">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="mailto:nikhilmendiratta2003@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 🔭 **Full Stack Intern @ Kixtix Media** — building production-grade SaaS platforms
-- ⚡ Cut server response time **350ms → 180ms** (48% API boost)
-- 📈 Lifted checkout conversion by **12%** via full-stack feature dev
-- 🌱 Exploring **MLOps**, **LangChain**, and **distributed systems**
-- 🎓 B.Tech CS @ BPIT, GGS IPU · **8.4 CGPA** · Graduating 2026
-- 📫 nikhilmendiratta2003@gmail.com
-
----
-
-## 🛠️ Tech I Work With
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+* ⚡ Improved API performance by **48%**
+* 📈 Increased checkout conversion by **12%**
+* 🤖 Exploring **AI, LangChain, MLOps & Automation**
+* 🎓 B.Tech CSE @ BPIT (8.4 CGPA)
+* 🚀 Open to SDE & Full Stack Opportunities
 
 ---
 
-## 🏗️ Featured Projects
+# 🛠️ Tech Stack
 
-| Project | Stack | Live |
-|---------|-------|------|
-| 🎬 **Vidfyy** — YouTube Promotion SaaS | React · Node · MongoDB · JWT | [vidfyy.in](https://www.vidfyy.in/) |
-| 📊 **XDMedia** — Digital Marketing Platform | React · Firebase · Node | [xdmedia.in](https://www.xdmedia.in/) |
-| 💳 **ShigramPay** — Facial Recognition Payments | React · Tailwind · Firebase | [shigrampay.com](https://shigrampay.com/) |
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,firebase,python,cpp,java,go,docker,git,github,linux,tailwind,aws,postman,vscode&perline=10" />
 
-## 🎮 Stats
-
-```
-╔══════════════════════════════════════════════════╗
-║  PLAYER  : Nikhil Mendiratta      LVL  : 12     ║
-║  CLASS   : Full Stack SDE         XP   : 740/1k ║
-║  STATUS  : ● Open to Work         CGPA : 8.4    ║
-╚══════════════════════════════════════════════════╝
-```
-
-| 📦 274 Commits | 🔥 820+ Active Days | 🚀 3 Projects Live | ⚡ 48% API Boost | 📈 12% CVR Lift |
-|:-:|:-:|:-:|:-:|:-:|
-
-### 🏆 Achievements
-
-`🚀 Shipped to Prod` &nbsp;`⚡ 48% Perf Boost` &nbsp;`👥 3K Daily Users` &nbsp;`🎓 8.4 CGPA` &nbsp;`💳 Payment Gateway` &nbsp;`🧠 ML Explorer`
-
----
-## 🛠️ Tech Stack
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
+
+---
+
+# 🚀 Featured Projects
+
+| 🚀 Project        | 💻 Stack                                   | 🌐 Live                |
+| ----------------- | ------------------------------------------ | ---------------------- |
+| 🎬 **Vidflyy**    | React · Node · MongoDB · JWT · YouTube API | https://www.vidflyy.in |
+| 📊 **XDMedia**    | React · Firebase · Firestore · Node        | https://www.xdmedia.in |
+| 💳 **ShigramPay** | React · Tailwind · Firebase                | https://shigrampay.com |
+
+---
+
+# 🎮 Gamer Stats
+
+```yaml id="y7n2kp"
+👨‍💻 Player      : Nikhil Mendiratta
+⚔️ Class       : Full Stack SDE
+🔥 XP          : 740 / 1000
+🚀 Level       : 12
+📈 API Boost   : +48%
+🎯 Status      : Open To Work
+```
+
+<div align="center">
+
+| 📦 274+ Commits | 🔥 820+ Active Days | 🚀 3 Live Projects | ⚡ 48% API Boost | 📈 12% CVR Lift |
+| :-------------: | :-----------------: | :----------------: | :-------------: | :-------------: |
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+`🚀 Shipped to Prod`
+`⚡ 48% Perf Boost`
+`👥 3K Daily Users`
+`🎓 8.4 CGPA`
+`💳 Payment Gateway`
+`🤖 AI Explorer`
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=niks2411&label=Profile+Views&color=0e75b6&style=flat" />
-  <br/><br/>
-  <i>⚡ "Clean code, scalable systems, measurable impact."</i>
+  <a href="https://linkedin.com/in/nikhil-mendiratta-20a2b7297">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:nikhilmendiratta2003@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/niks2411">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
+
+---
+
+<div align="center">
+
+### ⚡ "Clean code, scalable systems, measurable impact."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer"/>
+
+</div>
