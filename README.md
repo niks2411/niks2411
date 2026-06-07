@@ -54,9 +54,10 @@
 | 🚀 Project        | 💻 Stack                                   | 🌐 Live                |
 | ----------------- | ------------------------------------------ | ---------------------- |
 | 🎬 **Vidflyy**    | React · Node · MongoDB · JWT · YouTube API | https://www.vidflyy.in |
+| 🧠 **MeraCareer** | Next.js · Supabase · n8n · AI Workflows    | https://meracareer.io  |
 | 📊 **XDMedia**    | React · Firebase · Firestore · Node        | https://www.xdmedia.in |
 | 💳 **ShigramPay** | React · Tailwind · Firebase                | https://shigrampay.com |
-| 🧠 **MeraCareer** | Next.js · Supabase · n8n · AI Workflows    | https://meracareer.io  |
+
 
 ---
 
