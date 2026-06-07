@@ -38,9 +38,14 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,firebase,python,cpp,java,go,docker,git,github,linux,tailwind,aws,postman,vscode&perline=10" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,supabase,python,cpp,java,go,docker,git,github,linux,tailwind,aws,postman&perline=10" />
+
+
 
 </div>
+
+
+
 
 ---
 
@@ -51,12 +56,13 @@
 | 🎬 **Vidflyy**    | React · Node · MongoDB · JWT · YouTube API | https://www.vidflyy.in |
 | 📊 **XDMedia**    | React · Firebase · Firestore · Node        | https://www.xdmedia.in |
 | 💳 **ShigramPay** | React · Tailwind · Firebase                | https://shigrampay.com |
+| 🧠 **MeraCareer** | Next.js · Supabase · n8n · AI Workflows    | https://meracareer.io  |
 
 ---
 
 # 🎮 Gamer Stats
 
-```yaml id="y7n2kp"
+```yaml id="r8u4pn"
 👨‍💻 Player      : Nikhil Mendiratta
 ⚔️ Class       : Full Stack SDE
 🔥 XP          : 740 / 1000
@@ -67,7 +73,7 @@
 
 <div align="center">
 
-| 📦 274+ Commits | 🔥 820+ Active Days | 🚀 3 Live Projects | ⚡ 48% API Boost | 📈 12% CVR Lift |
+| 📦 274+ Commits | 🔥 820+ Active Days | 🚀 4 Live Projects | ⚡ 48% API Boost | 📈 12% CVR Lift |
 | :-------------: | :-----------------: | :----------------: | :-------------: | :-------------: |
 
 </div>
@@ -84,6 +90,7 @@
 `🎓 8.4 CGPA`
 `💳 Payment Gateway`
 `🤖 AI Explorer`
+`🧠 AI Workflow Builder`
 
 </div>
 
